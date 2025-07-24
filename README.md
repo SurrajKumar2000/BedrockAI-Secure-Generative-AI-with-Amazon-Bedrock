@@ -1,0 +1,1 @@
+# BedrockAI-Secure-Generative-AI-with-Amazon-Bedrock
