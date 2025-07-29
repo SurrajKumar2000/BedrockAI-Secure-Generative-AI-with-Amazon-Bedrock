@@ -13,11 +13,13 @@ A modern, interactive chat application powered by Meta's Llama 3 model through A
 📸 Screenshots Sample Output
 
    🏠 Main Interface
-<img width="1700" height="743" alt="AWS-Bedrock Output-1" src="https://github.com/user-attachments/assets/ee4a5257-c5da-4aa2-8e57-3c9ce887ca6e" />
+<img width="1696" height="969" alt="Screenshot 2025-07-30 at 3 58 32 AM" src="https://github.com/user-attachments/assets/bd860e1e-012f-4379-aef0-2446848de513" />
+
 Clean and intuitive chat interface with question input area
 
    💬 Chat Interaction
-<img width="1697" height="946" alt="AWS-Bedrock Output " src="https://github.com/user-attachments/assets/e19b2258-cfa1-41a0-b64f-d9f0785db32a" />
+<img width="1688" height="961" alt="Screenshot 2025-07-30 at 4 15 52 AM" src="https://github.com/user-attachments/assets/a879008f-8ed4-4bfa-add3-54766b05af36" />
+
 Demonstration of AI-generated Llama 3 responses
 
 ## 🛠️ Tech Stack
