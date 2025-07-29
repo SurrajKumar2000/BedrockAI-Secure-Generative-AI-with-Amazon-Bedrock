@@ -10,6 +10,22 @@ A modern, interactive chat application powered by Meta's Llama 3 model through A
 - **Simple Deployment**: Easy setup and deployment process
 - **Scalable Architecture**: Built on AWS infrastructure for reliability
 
+📸 Screenshots
+🏠 Main Interface
+<img width="1700" height="743" alt="AWS-Bedrock Output-1" src="https://github.com/user-attachments/assets/ee4a5257-c5da-4aa2-8e57-3c9ce887ca6e" />
+Clean and intuitive chat interface with question input area
+
+💬 Chat Interaction
+Show Image
+Example conversation showing Llama 3 responses
+
+✨ Sample Output
+Show Image
+Demonstration of AI-generated responses and formatting
+
+
+
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit
