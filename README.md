@@ -43,14 +43,13 @@ Before running this application, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/llama3-bedrock-chat.git
-   cd llama3-bedrock-chat
+   git clone git@github.com:SurrajKumar2000/BedrockAI-Secure-Generative-AI-with-Amazon-Bedrock.git
    ```
 
 2. **Create a virtual environment**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate
    ```
 
 3. **Install dependencies**
